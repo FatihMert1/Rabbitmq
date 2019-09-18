@@ -1,0 +1,14 @@
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.2\Consumer.deps.json
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.json
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.2\Consumer.runtimeconfig.dev.json
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.2\Consumer.dll
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\bin\Debug\netcoreapp2.2\Consumer.pdb
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.csprojAssemblyReference.cache
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.RazorAssemblyInfo.cache
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.RazorAssemblyInfo.cs
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfoInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.AssemblyInfo.cs
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.RazorTargetAssemblyInfo.cache
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.dll
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Consumer\obj\Debug\netcoreapp2.2\Consumer.pdb

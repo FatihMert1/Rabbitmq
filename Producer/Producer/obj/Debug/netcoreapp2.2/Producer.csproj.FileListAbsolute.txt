@@ -1,0 +1,11 @@
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.csprojAssemblyReference.cache
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.AssemblyInfoInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.AssemblyInfo.cs
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.deps.json
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.runtimeconfig.json
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.runtimeconfig.dev.json
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.dll
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\bin\Debug\netcoreapp2.2\Producer.pdb
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.dll
+C:\Users\fatih\OneDrive\Masaüstü\WorkFiles\AspDotNetCore\RabbitMQExample\Producer\Producer\obj\Debug\netcoreapp2.2\Producer.pdb
